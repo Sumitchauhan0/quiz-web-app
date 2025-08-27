@@ -11,6 +11,11 @@ A fully responsive quiz application built with React, designed to deliver an eng
 
 ---
 
+## 🌐 Live Demo
+[**👉 Click Here to Try QuizForge**](https://quizforge-1.netlify.app/)
+
+---
+
 ## 🛠️ Tech Stack
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Styling:** Tailwind CSS / Custom CSS
@@ -19,6 +24,6 @@ A fully responsive quiz application built with React, designed to deliver an eng
 
 ## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/quizforge.git
+### 1. Clone the repository:
+```bash
+git clone https://github.com/your-username/quizforge.git
